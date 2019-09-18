@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WriteLog\WriteLog\obj\Debug\WriteLog.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WriteLog\WriteLog\obj\Debug\WriteLog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WriteLog\WriteLog\bin\Debug\WriteLog.exe.config
+C:\Users\User\source\repos\WriteLog\WriteLog\bin\Debug\WriteLog.exe
+C:\Users\User\source\repos\WriteLog\WriteLog\bin\Debug\WriteLog.pdb
+C:\Users\User\source\repos\WriteLog\WriteLog\obj\Debug\WriteLog.exe
+C:\Users\User\source\repos\WriteLog\WriteLog\obj\Debug\WriteLog.pdb
